@@ -1,5 +1,6 @@
-# Webpack Starter
+# Ejercicios de peticiones HTTP
 
+## NOTAS:
 Este proyecto contiene las configuraciones basicas de webpack para comenzar proyectos. Importacion de modulos, minificacion de css y js, empaquetado de imagenes.
 
 
